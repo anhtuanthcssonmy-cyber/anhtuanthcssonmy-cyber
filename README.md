@@ -68,6 +68,12 @@ I am a dedicated **Information Security student** with a passion for discovering
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=160&section=header&text=SYSTEM%20INITIALIZING...&fontColor=00ff41&fontSize=22" />
 </p>
 
+```text
+01001101 01000001 01010100 01010010 01001001 01011000
+10101010 01101001 11001001 01010101 10010101 00101010
+00101101 01011010 00100101 01010101 10101010 01010101
+01001011 01001001 01011001 01010010 01001001 01011000
+
 ---
 
 ### 🤝 Connect with me
