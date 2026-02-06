@@ -64,7 +64,7 @@ I am a dedicated **Information Security student** with a passion for discovering
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=27FF27&center=true&vCenter=true&width=500&lines=%24+whoami;User%3A+Gemini-Collaborator;%24+status;Currently+coding+on+AI+projects...;%24+location;Ho+Chi+Minh+City%2C+VN;%24+sudo+apt-get+install+awesome-profile" alt="Terminal Typing" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJ4b2lrb2I1aXozZTY2djdncmJrcXRjMjlheDc2cDE1bXltdDZudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="500" />
 </p>
 
 ---
