@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=60&pause=1000&color=0FF706&width=435&lines=WEBCOME+TO+MY+GITHUB!+I'M+MR.ZERONE)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=60&pause=1000&color=0FF706&width=460&height=89&lines=WEBCOME+TO+MY+GITHUB!+I'M+MR.ZERONE)
 # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> My name is mr.zerone
 ### Cybersecurity Enthusiast & Frontend Developer 🛡️💻
 
