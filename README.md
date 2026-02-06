@@ -65,7 +65,7 @@ I am a dedicated **Information Security student** with a passion for discovering
 
 <!-- MATRIX RAIN EFFECT (WORKING) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=2cf0ab&text=CYBERPUNK&fontAlign=50&section=header&reversal=false&textBg=false&animation=blink" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=337278&text=CYBERPUNK&fontAlign=50&section=header&reversal=false&textBg=false&animation=blink&fontColor=e7f989" width="100%" />
 </p>
 
 ---
