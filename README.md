@@ -63,6 +63,11 @@ I am a dedicated **Information Security student** with a passion for discovering
 
 ---
 
+<!-- CYBER MATRIX BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=160&section=header&text=SYSTEM%20INITIALIZING...&fontColor=00ff41&fontSize=22" />
+</p>
+
 ---
 
 ### 🤝 Connect with me
