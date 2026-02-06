@@ -75,10 +75,7 @@ I am a dedicated **Information Security student** with a passion for discovering
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%24+nmap+-sV+-T4+target.com;%3E+Scanning+ports...+Found+80%2C+443%2C+22;%24+msfconsole+-q;%3E+Loading+metasploit-framework...+Done!;%24+use+exploit%2Fmulti%2Fhandler;%24+hydra+-l+admin+-P+passlist.txt+ssh%3A%2F%2Ftarget;%3E+Password+cracked!+Access+Granted." />
-</p>
-
+```text
 # Thống kê kỹ năng Cybersecurity
 ➜  ~ whoami
 cyber_security_student (Level: Pentester)
@@ -94,6 +91,7 @@ cyber_security_student (Level: Pentester)
 [■■■■■■■■■□] 90% Web Pentesting
 [■■■■■■■□□□] 70% Networking
 [■■■■■■■■□□] 80% System Hacking
+```
 
 <table align="center">
   <tr>
