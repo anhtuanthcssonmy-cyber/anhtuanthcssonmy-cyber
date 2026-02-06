@@ -65,7 +65,7 @@ I am a dedicated **Information Security student** with a passion for discovering
 
 <!-- MATRIX RAIN EFFECT (WORKING) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/matrix.svg" width="100%" />
+  <img src="https://i.pinimg.com/originals/24/e2/24/24e2240fed0b9ba7b766493068dc2902.gif" width="100%" />
 </p>
 
 ---
