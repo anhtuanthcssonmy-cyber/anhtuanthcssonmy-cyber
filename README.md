@@ -75,6 +75,41 @@ I am a dedicated **Information Security student** with a passion for discovering
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%24+nmap+-sV+-T4+target.com;%3E+Scanning+ports...+Found+80%2C+443%2C+22;%24+msfconsole+-q;%3E+Loading+metasploit-framework...+Done!;%24+use+exploit%2Fmulti%2Fhandler;%24+hydra+-l+admin+-P+passlist.txt+ssh%3A%2F%2Ftarget;%3E+Password+cracked!+Access+Granted." />
+</p>
+
+# Thống kê kỹ năng Cybersecurity
+➜  ~ whoami
+cyber_security_student (Level: Pentester)
+
+➜  ~ ls /tools/favorites
+- [✔] Wireshark    (Network Analysis)
+- [✔] Burp Suite   (Web Security)
+- [✔] Hydra        (Brute Force)
+- [✔] Nmap         (Network Scanning)
+- [✔] Metasploit   (Exploitation Framework)
+
+➜  ~ status --security
+[■■■■■■■■■□] 90% Web Pentesting
+[■■■■■■■□□□] 70% Networking
+[■■■■■■■■□□] 80% System Hacking
+
+<table align="center">
+  <tr>
+    <td bgcolor="#0D1117">
+      <p align="center">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJ4b2lrb2I1aXozZTY2djdncmJrcXRjMjlheDc2cDE1bXltdDZudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="450" />
+      </p>
+      <p align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=00FF41&width=500&lines=%24+wireshark+-k+-i+eth0;%3E+Capturing+traffic...;%24+burpsuite+--project+Pentest_2024;%3E+Intercepting+HTTP+requests...;%24+msfvenom+-p+windows%2Fmeterpreter..." />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🤝 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/tuấn-lê-a18171371/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
