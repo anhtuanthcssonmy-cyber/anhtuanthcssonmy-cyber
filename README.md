@@ -69,7 +69,8 @@ I am a dedicated **Information Security student** with a passion for discovering
 </p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5qbGF2MzkwMzBkNTByODk5amg0M3FuNG1pZ2IwNGF1bG10cHF4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTlkdDVpZWl4NzI4azhjcGx5Y2FzM2FmaGZ1cnh5aWMwbGg5MnM2ayZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/VF0WIRjfwvFERopBFY/giphy.gif" width="500" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3E2eno4MndtejhiM2o2azI3NHQ0a2h3cDE2dTc5NXI0OTF5dmh4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KA593kO0JvXMs/giphy.gif" width="500" />
 </p>
 
 ---
