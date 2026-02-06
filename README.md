@@ -61,17 +61,6 @@ I am a dedicated **Information Security student** with a passion for discovering
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=110&section=footer&text=Initializing%20Cyber%20Operations...&fontColor=00ff41&fontSize=18" />
-</p>
-
----
-
-<!-- MATRIX RAIN EFFECT (WORKING) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=337278&text=CYBERPUNK&fontAlign=50&section=header&reversal=false&textBg=false&animation=blink&fontColor=e7f989" width="100%" />
-</p>
-
 ---
 
 ### 🤝 Connect with me
