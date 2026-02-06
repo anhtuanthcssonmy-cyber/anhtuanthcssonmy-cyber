@@ -63,6 +63,10 @@ I am a dedicated **Information Security student** with a passion for discovering
 
 ---
 
+![Mô tả GIF của bạn](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb25vbzFqMjRqN240OGg1eTZkNThkcTNqbDF6aTY2ZjZ6Z252enRwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7FrOU9tPbgAZtxV5mb/giphy.gif)
+
+---
+
 ### 🤝 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/tuấn-lê-a18171371/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
