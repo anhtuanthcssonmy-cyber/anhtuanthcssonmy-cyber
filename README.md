@@ -43,14 +43,22 @@ I am a dedicated **Information Security student** with a passion for discovering
 
 ---
 
-### 📊 GitHub Metrics
+### 🧬 Terminal Activity
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anhtuanthcssonmy-cyber&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtuanthcssonmy-cyber&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=whoami;mr.zerone;role%3A+Cybersecurity+Enthusiast;focus%3A+Pentesting+%7C+Reverse+Engineering+%7C+Forensics;mindset%3A+Security-by-Design;status%3A+Always+Learning" />
+</p>
+
+---
+
+### 🧪 Hacking Visualization
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anhtuanthcssonmy-cyber&theme=radical&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=110&section=footer&text=Initializing%20Cyber%20Operations...&fontColor=00ff41&fontSize=18" />
 </p>
 
 ---
