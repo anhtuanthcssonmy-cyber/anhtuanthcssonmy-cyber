@@ -62,6 +62,56 @@ I am a dedicated **Information Security student** with a passion for discovering
 </p>
 
 ---
+### 🧪 Cyber Hacking Console
+
+<!-- MATRIX RAIN EFFECT -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/matrix.svg" width="100%" />
+</p>
+
+---
+
+### 🎯 CTF Platforms Status
+
+<p align="center">
+  <!-- Hack The Box -->
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-Active-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  <!-- TryHackMe -->
+  <img src="https://img.shields.io/badge/TryHackMe-Active-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
+</p>
+
+<p align="center">
+  <!-- Dynamic profile badges -->
+  <img src="https://tryhackme-badges.s3.amazonaws.com/zerone.png" alt="TryHackMe Badge" />
+</p>
+
+> 🔎 *Hack The Box rank badge có thể thêm ngay khi bạn public username.*
+
+---
+
+### 💻 Simulated Terminal Log
+
+┌──(zerone㉿kali)-[~/cyber]
+└─$ whoami
+mr.zerone
+
+┌──(zerone㉿kali)-[~/cyber]
+└─$ uname -a
+Linux kali 6.6.9-kali-amd64 x86_64 GNU/Linux
+
+┌──(zerone㉿kali)-[~/cyber]
+└─$ skills --list
+[+] Web Pentesting
+[+] Reverse Engineering
+[+] Digital Forensics
+[+] Frontend Security
+[+] CTF Player
+
+┌──(zerone㉿kali)-[~/cyber]
+└─$ echo "Security is a process, not a product."
+Security is a process, not a product.
+
+---
 
 ### 🤝 Connect with me
 <p align="left">
